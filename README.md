@@ -25,11 +25,18 @@ cd HeavyFileHunter
 ```
 
 ## 🖥️ Usage
-
-To run the script, navigate to the HeavyFileHunter directory and execute:
+> [!NOTE]
+> To run the script, navigate to the HeavyFileHunter directory and execute:
 
 ```bash
 ./HeavyFileHunter.sh
+```
+
+> [!WARNING]
+> If the script requires access to files with special permissions, you may need to run it with sudo:
+
+```bash
+sudo ./HeavyFileHunter.sh
 ```
 
 Follow the on-screen instructions to enter the directory path and the minimum file size to search for.
@@ -52,9 +59,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, please feel free to contact me:
 
-- **DeadGolden0**
-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
-- Project Link: [https://github.com/DeadGolden0/HeavyFileHunter](https://github.com/DeadGolden0/HeavyFileHunter)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w92W7XR9Yg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deadgolden9122@gmail.com)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DeAdGoLdEn/)
 
 ## 💖 Support Me
 
